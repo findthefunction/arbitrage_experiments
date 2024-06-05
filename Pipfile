@@ -9,6 +9,7 @@ psycopg2-binary = "*"
 pandas = "*"
 requests = "*"
 python-decouple = "*"
+matplotlib = "*"
 
 [dev-packages]
 
