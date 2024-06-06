@@ -35,7 +35,7 @@ Apply database migrations:
 ```python manage.py makemigrations```
 ```python manage.py migrate```
 
-Run the fetch data command:
+Run the fetch data command: 
 
 ```python manage.py fetch_data ```
 
